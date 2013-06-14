@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RCcar</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblConnectionTarget">Connection Target</string>
+    <string name="lblIP">IP : </string>
+    <string name="lblConnect">Connect</string>
+    <string name="lblPort7777">Port : 7777</string>
+    <string name="lblReceivedMessage">Received Message</string>
+    <string name="lblClear">Clear</string>
+    <string name="sampleIP">192.168.10.8</string>
+
+</resources>
